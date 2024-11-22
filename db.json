@@ -1,12 +1,12 @@
 {
   "categoryDetails":[
   {
-   "categoryID":"bcd1",
-   "categoryList":[
+   "cid":"bcd1",
+   "categories":[
       {
-         "categoryLabel":"Dairy",
+         "categorylabel":"Dairy",
          "image":"https://placehold.co/600x400",
-         "categoryList":[
+         "categorylist":[
             {
                "label":"Curd",
                "image":"https://placehold.co/600x400",
@@ -35,7 +35,7 @@
          ]
       },
       {
-         "categoryLabel":"Bakery Snacks",
+         "categorylabel":"Bakery Snacks",
          "image":"https://placehold.co/600x400",
          "categoryList":[
             {
@@ -68,10 +68,10 @@
    ]
 },
   {
-   "categoryID":"gc1",
-   "categoryList":[
+   "cid":"gc1",
+   "categories":[
       {
-         "categoryLabel":"Dairy",
+         "categorylabel":"Dairy",
          "image":"https://placehold.co/600x400",
          "categoryList":[
             {
@@ -102,9 +102,9 @@
          ]
       },
       {
-         "categoryLabel":"Bakery Snacks",
+         "categorylabel":"Bakery Snacks",
          "image":"https://placehold.co/600x400",
-         "categoryList":[
+         "categorylist":[
             {
                "label":"Cheese & Garlic Breads",
                "image":"https://placehold.co/600x400",
