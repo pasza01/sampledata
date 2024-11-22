@@ -1,0 +1,136 @@
+[
+  {
+   "categoryID":"bcd1",
+   "categoryList":[
+      {
+         "categoryLabel":"Dairy",
+         "image":"https://placehold.co/600x400",
+         "categoryList":[
+            {
+               "label":"Curd",
+               "image":"https://placehold.co/600x400",
+               "slug":"curd"
+            },
+            {
+               "label":"Paneer, Tofu",
+               "image":"https://placehold.co/600x400",
+               "slug":"paneer_tofu"
+            },
+            {
+               "label":"Butter",
+               "image":"https://placehold.co/600x400",
+               "slug":"butter"
+            },
+            {
+               "label":"Milk",
+               "image":"https://placehold.co/600x400",
+               "slug":"milk"
+            },
+            {
+               "label":"Cheese",
+               "image":"https://placehold.co/600x400",
+               "slug":"cheese"
+            }
+         ]
+      },
+      {
+         "categoryLabel":"Bakery Snacks",
+         "image":"https://placehold.co/600x400",
+         "categoryList":[
+            {
+               "label":"Cheese & Garlic Breads",
+               "image":"https://placehold.co/600x400",
+               "slug":"cheese_garlic"
+            },
+            {
+               "label":"Bread Sticks",
+               "image":"https://placehold.co/600x400",
+               "slug":"breadstick"
+            },
+            {
+               "label":"Bread Crums",
+               "image":"https://placehold.co/600x400",
+               "slug":"breadcrums"
+            },
+            {
+               "label":"Milk",
+               "image":"https://placehold.co/600x400",
+               "slug":"milk"
+            },
+            {
+               "label":"Cheese",
+               "image":"https://placehold.co/600x400",
+               "slug":"cheese"
+            }
+         ]
+      }
+   ]
+},
+  {
+   "categoryID":"gc1",
+   "categoryList":[
+      {
+         "categoryLabel":"Dairy",
+         "image":"https://placehold.co/600x400",
+         "categoryList":[
+            {
+               "label":"Curd",
+               "image":"https://placehold.co/600x400",
+               "slug":"curd"
+            },
+            {
+               "label":"Paneer, Tofu",
+               "image":"https://placehold.co/600x400",
+               "slug":"paneer_tofu"
+            },
+            {
+               "label":"Butter",
+               "image":"https://placehold.co/600x400",
+               "slug":"butter"
+            },
+            {
+               "label":"Milk",
+               "image":"https://placehold.co/600x400",
+               "slug":"milk"
+            },
+            {
+               "label":"Cheese",
+               "image":"https://placehold.co/600x400",
+               "slug":"cheese"
+            }
+         ]
+      },
+      {
+         "categoryLabel":"Bakery Snacks",
+         "image":"https://placehold.co/600x400",
+         "categoryList":[
+            {
+               "label":"Cheese & Garlic Breads",
+               "image":"https://placehold.co/600x400",
+               "slug":"cheese_garlic"
+            },
+            {
+               "label":"Bread Sticks",
+               "image":"https://placehold.co/600x400",
+               "slug":"breadstick"
+            },
+            {
+               "label":"Bread Crums",
+               "image":"https://placehold.co/600x400",
+               "slug":"breadcrums"
+            },
+            {
+               "label":"Milk",
+               "image":"https://placehold.co/600x400",
+               "slug":"milk"
+            },
+            {
+               "label":"Cheese",
+               "image":"https://placehold.co/600x400",
+               "slug":"cheese"
+            }
+         ]
+      }
+   ]
+}
+]
