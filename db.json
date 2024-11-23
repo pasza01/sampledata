@@ -139,112 +139,145 @@
    ]
 }
 ],
-  "appcategory":[
-{
-"categoryId":"fv1",  "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
-"label":"Fruits & Vegetables",
-"parentId":"fresh"
-},
-{
-"categoryId":"bc1",  
-"image":"https://image.similarpng.com/very-thumbnail/2022/01/Fresh-bread-products-on-transparent-background-PNG.png",
-"label":"Bakery, Cakes & Dairy",
-"parentId":"grocery"
-},
-{
-"categoryId":"bm1",  
-"image":"https://pngimg.com/d/breakfast_PNG39.png",
-"label":"Breakfasts & More",
-"parentId":"grocery"
-},
-{
-"categoryId":"bcd01",  
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsmZ2G88j08G9moNy68d2JsoZVBhabkFT4dg&s",
-"label":"Eggs, Meat & Fish",
-"parentId":"fresh"
-},
-{
-"categoryId":"bcd01",  
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhKejA06U_-RLZrxb6v9ZWXfMZrJ0f8S73nw&s",
-"label":"Masalas, Oils & Dry Fruits",
-"parentId":"fresh"
-},
-{
-"categoryId":"bcd01",  "image":"https://www.lundberg.com/cdn/shop/files/BAG_Basmati_White_2lb_FRONT_ANGLE_L_1000_1000x.png?v=1706773662",
-"label":"Atta, Rice, Dals & Sugar",
-"parentId":"fresh"
-},
-{
-"categoryId":"bcd01",  
-"image":"https://w7.pngwing.com/pngs/140/616/png-transparent-biscuits-chocolate-chip-cookie-almond-biscuit-biscuit-food-nuts-chocolate-chip-cookie.png",
-"label":"Chips, Biscuits",
-"parentId":"fresh"
-},
-{
-"categoryId":"bcd01",  "image":"https://i.pinimg.com/originals/2c/ff/e7/2cffe78ee2c8162f46297551deff8770.png",
-"label":"Fruits & Vegetables",
-"parentId":"fresh"
-},
-{
-"categoryId":"if1",  
-"image":"https://static.vecteezy.com/system/resources/previews/033/125/074/non_2x/broccoli-frozen-vegetables-frozen-food-generative-ai-free-png.png",
-"label":"Instant & Frozen Foods",
-"parentId":"fresh"
-},
-{
-"categoryId":"gw1",  "image":"https://www.benjerry.com/files/live/sites/systemsite/files/US%20and%20Global%20Assets/Flavors/Product%20Assets/US/Half%20Baked%20Ice%20Cream/35725_US_IC_Half-Baked_473ml_Open_Brand-1920px.png",
-"label":"Gourmet & World Food",
-"parentId":"world"
-},
-{
-"categoryId":"bcd01",  "image":"https://www.benjerry.com/files/live/sites/systemsite/files/US%20and%20Global%20Assets/Flavors/Product%20Assets/US/Half%20Baked%20Ice%20Cream/35725_US_IC_Half-Baked_473ml_Open_Brand-1920px.png",
-"label":"Men\\'s Grooming",
-"parentId":"fresh"
-},
-{
-"categoryId":"mg1",  "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
-"label":"Fruits & Vegetables",
-"parentId":"personalcare"
-},
-{
-"categoryId":"bbh1",  "image":"https://www.benjerry.com/files/live/sites/systemsite/files/US%20and%20Global%20Assets/Flavors/Product%20Assets/US/Half%20Baked%20Ice%20Cream/35725_US_IC_Half-Baked_473ml_Open_Brand-1920px.png",
-"label":"Bath, Body & Hair'",
-"parentId":"personalcare"
-},
-{
-"categoryId":"bc1",  "image":"https://www.benjerry.com/files/live/sites/systemsite/files/US%20and%20Global%20Assets/Flavors/Product%20Assets/US/Half%20Baked%20Ice%20Cream/35725_US_IC_Half-Baked_473ml_Open_Brand-1920px.png",
-"label":"Beauty & Cosmetics",
-"parentId":"personalcare"
-},
-{
-"categoryId":"bcd01",  "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
-"label":"Health & Hygiene",
-"parentId":"fresh"
-},
-{
-"categoryId":"bcd01",  "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
-"label":"Fruits & Vegetables",
-"parentId":"fresh"
-},
-{
-"categoryId":"bcd01",  "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
-"label":"Fruits & Vegetables",
-"parentId":"fresh"
-},
-{
-"categoryId":"bcd01",  "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
-"label":"Fruits & Vegetables",
-"parentId":"fresh"
-},
-{
-"categoryId":"bcd01",  "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
-"label":"Fruits & Vegetables",
-"parentId":"fresh"
-},
-{
-"categoryId":"bcd01",  "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
-"label":"Fruits & Vegetables",
-"parentId":"fresh"
+"shop":{
+   "announce":{
+      "title": "Welcome to Sajhamart",
+      "desc": "<div><h2 style='color: '45a3df',blue;'>Covid-19 safety tips and measure</span></h2><p>Wear a mask.Save lives.</p><ul><li>Wear a mask that fits well with no gaps</li><li>Stay at least 6 feet from others</li><li>Avoid crowds and poorly ventilated spaces</li><li>Get a vaccine when it's available to you</li></ul><img src='https://www.redcross.org/content/dam/redcross/about-us/news/2020/facemaskinfotw.jpg.transform/1288/q70/feature/image.jpeg'/><p><a href='https://www.cdc.gov/'>Visit CDC website</a></p></div>",
+      "containerColor": "#7accc8",
+      "textColor": "#000000",
+      "enableMarquee": false,
+      "enableMoreBtn": true,
+      "fontSize": 16,
+      "moreBtnBackground": "#7accc8",
+      "moreBtnTxtColor": "#323d42"
+   },
+   "banners":[
+      {
+         "image":"https://i.imgur.com/OUlTACi.jpeg",
+         "link":"hot_deals"
+      },
+      {
+         "image":"https://i.imgur.com/VjVdgji.jpeg",
+         "link":"spring_sale"
+      },
+      {
+         "image":"https://images.unsplash.com/photo-1581952373352-04e5e7889a99?q=80&w=2598&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+         "link":"hot_deals"
+      },
+      {
+         "image":"https://media.istockphoto.com/id/1311256722/photo/autumn-border-background-with-half-pumpkin-and-fall-leaves.jpg?s=1024x1024&w=is&k=20&c=H43pTyZXo1juQd2E-k8QErygmPKxvxM_3Lo6oU2pAcA=",
+         "link":"spring_sale"
+      }
+   ],
+   "placement":[],
+   "menucategory":[
+      {
+      "categoryId":"fv1", 
+       "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
+      "label":"Fruits & Vegetables",
+      "parentId":"fresh"
+      },
+      {
+      "categoryId":"bc1",  
+      "image":"https://image.similarpng.com/very-thumbnail/2022/01/Fresh-bread-products-on-transparent-background-PNG.png",
+      "label":"Bakery, Cakes & Dairy",
+      "parentId":"grocery"
+      },
+      {
+      "categoryId":"bm1",  
+      "image":"https://pngimg.com/d/breakfast_PNG39.png",
+      "label":"Breakfasts & More",
+      "parentId":"grocery"
+      },
+      {
+      "categoryId":"bcd01",  
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsmZ2G88j08G9moNy68d2JsoZVBhabkFT4dg&s",
+      "label":"Eggs, Meat & Fish",
+      "parentId":"fresh"
+      },
+      {
+      "categoryId":"bcd01",  
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhKejA06U_-RLZrxb6v9ZWXfMZrJ0f8S73nw&s",
+      "label":"Masalas, Oils & Dry Fruits",
+      "parentId":"fresh"
+      },
+      {
+      "categoryId":"bcd01",  "image":"https://www.lundberg.com/cdn/shop/files/BAG_Basmati_White_2lb_FRONT_ANGLE_L_1000_1000x.png?v=1706773662",
+      "label":"Atta, Rice, Dals & Sugar",
+      "parentId":"fresh"
+      },
+      {
+      "categoryId":"bcd01",  
+      "image":"https://w7.pngwing.com/pngs/140/616/png-transparent-biscuits-chocolate-chip-cookie-almond-biscuit-biscuit-food-nuts-chocolate-chip-cookie.png",
+      "label":"Chips, Biscuits",
+      "parentId":"fresh"
+      },
+      {
+      "categoryId":"bcd01",  "image":"https://i.pinimg.com/originals/2c/ff/e7/2cffe78ee2c8162f46297551deff8770.png",
+      "label":"Fruits & Vegetables",
+      "parentId":"fresh"
+      },
+      {
+      "categoryId":"if1",  
+      "image":"https://static.vecteezy.com/system/resources/previews/033/125/074/non_2x/broccoli-frozen-vegetables-frozen-food-generative-ai-free-png.png",
+      "label":"Instant & Frozen Foods",
+      "parentId":"fresh"
+      },
+      {
+      "categoryId":"gw1",  "image":"https://www.benjerry.com/files/live/sites/systemsite/files/US%20and%20Global%20Assets/Flavors/Product%20Assets/US/Half%20Baked%20Ice%20Cream/35725_US_IC_Half-Baked_473ml_Open_Brand-1920px.png",
+      "label":"Gourmet & World Food",
+      "parentId":"world"
+      },
+      {
+      "categoryId":"bcd01",  "image":"https://www.benjerry.com/files/live/sites/systemsite/files/US%20and%20Global%20Assets/Flavors/Product%20Assets/US/Half%20Baked%20Ice%20Cream/35725_US_IC_Half-Baked_473ml_Open_Brand-1920px.png",
+      "label":"Men\\'s Grooming",
+      "parentId":"fresh"
+      },
+      {
+      "categoryId":"mg1",  "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
+      "label":"Fruits & Vegetables",
+      "parentId":"personalcare"
+      },
+      {
+      "categoryId":"bbh1",  "image":"https://www.benjerry.com/files/live/sites/systemsite/files/US%20and%20Global%20Assets/Flavors/Product%20Assets/US/Half%20Baked%20Ice%20Cream/35725_US_IC_Half-Baked_473ml_Open_Brand-1920px.png",
+      "label":"Bath, Body & Hair'",
+      "parentId":"personalcare"
+      },
+      {
+      "categoryId":"bc1",  "image":"https://www.benjerry.com/files/live/sites/systemsite/files/US%20and%20Global%20Assets/Flavors/Product%20Assets/US/Half%20Baked%20Ice%20Cream/35725_US_IC_Half-Baked_473ml_Open_Brand-1920px.png",
+      "label":"Beauty & Cosmetics",
+      "parentId":"personalcare"
+      },
+      {
+      "categoryId":"bcd01",  "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
+      "label":"Health & Hygiene",
+      "parentId":"fresh"
+      },
+      {
+      "categoryId":"bcd01",  "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
+      "label":"Fruits & Vegetables",
+      "parentId":"fresh"
+      },
+      {
+      "categoryId":"bcd01",  "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
+      "label":"Fruits & Vegetables",
+      "parentId":"fresh"
+      },
+      {
+      "categoryId":"bcd01",  "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
+      "label":"Fruits & Vegetables",
+      "parentId":"fresh"
+      },
+      {
+      "categoryId":"bcd01",  "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
+      "label":"Fruits & Vegetables",
+      "parentId":"fresh"
+      },
+      {
+      "categoryId":"bcd01",  "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
+      "label":"Fruits & Vegetables",
+      "parentId":"fresh"
+      }
+      ]
 }
-]
 }
