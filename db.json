@@ -1,264 +1,250 @@
 {
-   "categoryDetails":[
+  "categoryDetails":[
+  {
+   "cid":"bcd1",
+   "categories":[
       {
-         "cid":"bcd1",
-         "categories":[
+         "categorylabel":"Dairy",
+         "image":"https://placehold.co/600x400",
+        "color":"#05C0F7",
+         "categorylist":[
             {
-               "categorylabel":"Dairy",
+               "label":"Curd",
                "image":"https://placehold.co/600x400",
-               "color":"#05C0F7",
-               "categorylist":[
-                  {
-                     "label":"Curd",
-                     "image":"https://placehold.co/600x400",
-                     "slug":"curd"
-                  },
-                  {
-                     "label":"Paneer, Tofu",
-                     "image":"https://placehold.co/600x400",
-                     "slug":"paneer_tofu"
-                  },
-                  {
-                     "label":"Butter",
-                     "image":"https://placehold.co/600x400",
-                     "slug":"butter"
-                  },
-                  {
-                     "label":"Milk",
-                     "image":"https://placehold.co/600x400",
-                     "slug":"milk"
-                  },
-                  {
-                     "label":"Cheese",
-                     "image":"https://placehold.co/600x400",
-                     "slug":"cheese"
-                  }
-               ]
+               "slug":"curd"
             },
             {
-               "categorylabel":"Bakery Snacks",
+               "label":"Paneer, Tofu",
                "image":"https://placehold.co/600x400",
-               "color":"#05C0F7",
-               "categoryList":[
-                  {
-                     "label":"Cheese & Garlic Breads",
-                     "image":"https://placehold.co/600x400",
-                     "slug":"cheese_garlic"
-                  },
-                  {
-                     "label":"Bread Sticks",
-                     "image":"https://placehold.co/600x400",
-                     "slug":"breadstick"
-                  },
-                  {
-                     "label":"Bread Crums",
-                     "image":"https://placehold.co/600x400",
-                     "slug":"breadcrums"
-                  },
-                  {
-                     "label":"Milk",
-                     "image":"https://placehold.co/600x400",
-                     "slug":"milk"
-                  },
-                  {
-                     "label":"Cheese",
-                     "image":"https://placehold.co/600x400",
-                     "slug":"cheese"
-                  }
-               ]
+               "slug":"paneer_tofu"
+            },
+            {
+               "label":"Butter",
+               "image":"https://placehold.co/600x400",
+               "slug":"butter"
+            },
+            {
+               "label":"Milk",
+               "image":"https://placehold.co/600x400",
+               "slug":"milk"
+            },
+            {
+               "label":"Cheese",
+               "image":"https://placehold.co/600x400",
+               "slug":"cheese"
             }
          ]
       },
       {
-         "cid":"gc1",
-         "categories":[
+         "categorylabel":"Bakery Snacks",
+         "image":"https://placehold.co/600x400",
+          "color":"#05C0F7",
+         "categoryList":[
             {
-               "categorylabel":"Dairy",
+               "label":"Cheese & Garlic Breads",
                "image":"https://placehold.co/600x400",
-               "color":"#05C0F7",
-               "categoryList":[
-                  {
-                     "label":"Curd",
-                     "image":"https://placehold.co/600x400",
-                     "slug":"curd"
-                  },
-                  {
-                     "label":"Paneer, Tofu",
-                     "image":"https://placehold.co/600x400",
-                     "slug":"paneer_tofu"
-                  },
-                  {
-                     "label":"Butter",
-                     "image":"https://placehold.co/600x400",
-                     "slug":"butter"
-                  },
-                  {
-                     "label":"Milk",
-                     "image":"https://placehold.co/600x400",
-                     "slug":"milk"
-                  },
-                  {
-                     "label":"Cheese",
-                     "image":"https://placehold.co/600x400",
-                     "slug":"cheese"
-                  }
-               ]
+               "slug":"cheese_garlic"
             },
             {
-               "categorylabel":"Bakery Snacks",
+               "label":"Bread Sticks",
                "image":"https://placehold.co/600x400",
-               "color":"#05C0F7",
-               "categorylist":[
-                  {
-                     "label":"Cheese & Garlic Breads",
-                     "image":"https://placehold.co/600x400",
-                     "slug":"cheese_garlic"
-                  },
-                  {
-                     "label":"Bread Sticks",
-                     "image":"https://placehold.co/600x400",
-                     "slug":"breadstick"
-                  },
-                  {
-                     "label":"Bread Crums",
-                     "image":"https://placehold.co/600x400",
-                     "slug":"breadcrums"
-                  },
-                  {
-                     "label":"Milk",
-                     "image":"https://placehold.co/600x400",
-                     "slug":"milk"
-                  },
-                  {
-                     "label":"Cheese",
-                     "image":"https://placehold.co/600x400",
-                     "slug":"cheese"
-                  }
-               ]
+               "slug":"breadstick"
+            },
+            {
+               "label":"Bread Crums",
+               "image":"https://placehold.co/600x400",
+               "slug":"breadcrums"
+            },
+            {
+               "label":"Milk",
+               "image":"https://placehold.co/600x400",
+               "slug":"milk"
+            },
+            {
+               "label":"Cheese",
+               "image":"https://placehold.co/600x400",
+               "slug":"cheese"
             }
          ]
-      }
-   ],
-   "appcategory":[
-      {
-         "categoryId":"fv1",
-         "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
-         "label":"Fruits & Vegetables",
-         "parentId":"fresh"
-      },
-      {
-         "categoryId":"bc1",
-         "image":"https://image.similarpng.com/very-thumbnail/2022/01/Fresh-bread-products-on-transparent-background-PNG.png",
-         "label":"Bakery, Cakes & Dairy",
-         "parentId":"grocery"
-      },
-      {
-         "categoryId":"bm1",
-         "image":"https://pngimg.com/d/breakfast_PNG39.png",
-         "label":"Breakfasts & More",
-         "parentId":"grocery"
-      },
-      {
-         "categoryId":"bcd01",
-         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsmZ2G88j08G9moNy68d2JsoZVBhabkFT4dg&s",
-         "label":"Eggs, Meat & Fish",
-         "parentId":"fresh"
-      },
-      {
-         "categoryId":"bcd01",
-         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhKejA06U_-RLZrxb6v9ZWXfMZrJ0f8S73nw&s",
-         "label":"Masalas, Oils & Dry Fruits",
-         "parentId":"fresh"
-      },
-      {
-         "categoryId":"bcd01",
-         "image":"https://www.lundberg.com/cdn/shop/files/BAG_Basmati_White_2lb_FRONT_ANGLE_L_1000_1000x.png?v=1706773662",
-         "label":"Atta, Rice, Dals & Sugar",
-         "parentId":"fresh"
-      },
-      {
-         "categoryId":"bcd01",
-         "image":"https://w7.pngwing.com/pngs/140/616/png-transparent-biscuits-chocolate-chip-cookie-almond-biscuit-biscuit-food-nuts-chocolate-chip-cookie.png",
-         "label":"Chips, Biscuits",
-         "parentId":"fresh"
-      },
-      {
-         "categoryId":"bcd01",
-         "image":"https://i.pinimg.com/originals/2c/ff/e7/2cffe78ee2c8162f46297551deff8770.png",
-         "label":"Fruits & Vegetables",
-         "parentId":"fresh"
-      },
-      {
-         "categoryId":"if1",
-         "image":"https://static.vecteezy.com/system/resources/previews/033/125/074/non_2x/broccoli-frozen-vegetables-frozen-food-generative-ai-free-png.png",
-         "label":"Instant & Frozen Foods",
-         "parentId":"fresh"
-      },
-      {
-         "categoryId":"gw1",
-         "image":"https://www.benjerry.com/files/live/sites/systemsite/files/US%20and%20Global%20Assets/Flavors/Product%20Assets/US/Half%20Baked%20Ice%20Cream/35725_US_IC_Half-Baked_473ml_Open_Brand-1920px.png",
-         "label":"Gourmet & World Food",
-         "parentId":"world"
-      },
-      {
-         "categoryId":"bcd01",
-         "image":"https://www.benjerry.com/files/live/sites/systemsite/files/US%20and%20Global%20Assets/Flavors/Product%20Assets/US/Half%20Baked%20Ice%20Cream/35725_US_IC_Half-Baked_473ml_Open_Brand-1920px.png",
-         "label":"Men\\'s Grooming",
-         "parentId":"fresh"
-      },
-      {
-         "categoryId":"mg1",
-         "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
-         "label":"Fruits & Vegetables",
-         "parentId":"personalcare"
-      },
-      {
-         "categoryId":"bbh1",
-         "image":"https://www.benjerry.com/files/live/sites/systemsite/files/US%20and%20Global%20Assets/Flavors/Product%20Assets/US/Half%20Baked%20Ice%20Cream/35725_US_IC_Half-Baked_473ml_Open_Brand-1920px.png",
-         "label":"Bath, Body & Hair'",
-         "parentId":"personalcare"
-      },
-      {
-         "categoryId":"bc1",
-         "image":"https://www.benjerry.com/files/live/sites/systemsite/files/US%20and%20Global%20Assets/Flavors/Product%20Assets/US/Half%20Baked%20Ice%20Cream/35725_US_IC_Half-Baked_473ml_Open_Brand-1920px.png",
-         "label":"Beauty & Cosmetics",
-         "parentId":"personalcare"
-      },
-      {
-         "categoryId":"bcd01",
-         "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
-         "label":"Health & Hygiene",
-         "parentId":"fresh"
-      },
-      {
-         "categoryId":"bcd01",
-         "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
-         "label":"Fruits & Vegetables",
-         "parentId":"fresh"
-      },
-      {
-         "categoryId":"bcd01",
-         "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
-         "label":"Fruits & Vegetables",
-         "parentId":"fresh"
-      },
-      {
-         "categoryId":"bcd01",
-         "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
-         "label":"Fruits & Vegetables",
-         "parentId":"fresh"
-      },
-      {
-         "categoryId":"bcd01",
-         "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
-         "label":"Fruits & Vegetables",
-         "parentId":"fresh"
-      },
-      {
-         "categoryId":"bcd01",
-         "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
-         "label":"Fruits & Vegetables",
-         "parentId":"fresh"
       }
    ]
+},
+  {
+   "cid":"gc1",
+   "categories":[
+      {
+         "categorylabel":"Dairy",
+         "image":"https://placehold.co/600x400",
+          "color":"#05C0F7",
+         "categoryList":[
+            {
+               "label":"Curd",
+               "image":"https://placehold.co/600x400",
+               "slug":"curd"
+            },
+            {
+               "label":"Paneer, Tofu",
+               "image":"https://placehold.co/600x400",
+               "slug":"paneer_tofu"
+            },
+            {
+               "label":"Butter",
+               "image":"https://placehold.co/600x400",
+               "slug":"butter"
+            },
+            {
+               "label":"Milk",
+               "image":"https://placehold.co/600x400",
+               "slug":"milk"
+            },
+            {
+               "label":"Cheese",
+               "image":"https://placehold.co/600x400",
+               "slug":"cheese"
+            }
+         ]
+      },
+      {
+         "categorylabel":"Bakery Snacks",
+         "image":"https://placehold.co/600x400",
+          "color":"#05C0F7",
+         "categorylist":[
+            {
+               "label":"Cheese & Garlic Breads",
+               "image":"https://placehold.co/600x400",
+               "slug":"cheese_garlic"
+            },
+            {
+               "label":"Bread Sticks",
+               "image":"https://placehold.co/600x400",
+               "slug":"breadstick"
+            },
+            {
+               "label":"Bread Crums",
+               "image":"https://placehold.co/600x400",
+               "slug":"breadcrums"
+            },
+            {
+               "label":"Milk",
+               "image":"https://placehold.co/600x400",
+               "slug":"milk"
+            },
+            {
+               "label":"Cheese",
+               "image":"https://placehold.co/600x400",
+               "slug":"cheese"
+            }
+         ]
+      }
+   ]
+}
+],
+  "appcategory":[
+{
+"categoryId":"fv1",  "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
+"label":"Fruits & Vegetables",
+"parentId":"fresh"
+},
+{
+"categoryId":"bc1",  
+"image":"https://image.similarpng.com/very-thumbnail/2022/01/Fresh-bread-products-on-transparent-background-PNG.png",
+"label":"Bakery, Cakes & Dairy",
+"parentId":"grocery"
+},
+{
+"categoryId":"bm1",  
+"image":"https://pngimg.com/d/breakfast_PNG39.png",
+"label":"Breakfasts & More",
+"parentId":"grocery"
+},
+{
+"categoryId":"bcd01",  
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsmZ2G88j08G9moNy68d2JsoZVBhabkFT4dg&s",
+"label":"Eggs, Meat & Fish",
+"parentId":"fresh"
+},
+{
+"categoryId":"bcd01",  
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhKejA06U_-RLZrxb6v9ZWXfMZrJ0f8S73nw&s",
+"label":"Masalas, Oils & Dry Fruits",
+"parentId":"fresh"
+},
+{
+"categoryId":"bcd01",  "image":"https://www.lundberg.com/cdn/shop/files/BAG_Basmati_White_2lb_FRONT_ANGLE_L_1000_1000x.png?v=1706773662",
+"label":"Atta, Rice, Dals & Sugar",
+"parentId":"fresh"
+},
+{
+"categoryId":"bcd01",  
+"image":"https://w7.pngwing.com/pngs/140/616/png-transparent-biscuits-chocolate-chip-cookie-almond-biscuit-biscuit-food-nuts-chocolate-chip-cookie.png",
+"label":"Chips, Biscuits",
+"parentId":"fresh"
+},
+{
+"categoryId":"bcd01",  "image":"https://i.pinimg.com/originals/2c/ff/e7/2cffe78ee2c8162f46297551deff8770.png",
+"label":"Fruits & Vegetables",
+"parentId":"fresh"
+},
+{
+"categoryId":"if1",  
+"image":"https://static.vecteezy.com/system/resources/previews/033/125/074/non_2x/broccoli-frozen-vegetables-frozen-food-generative-ai-free-png.png",
+"label":"Instant & Frozen Foods",
+"parentId":"fresh"
+},
+{
+"categoryId":"gw1",  "image":"https://www.benjerry.com/files/live/sites/systemsite/files/US%20and%20Global%20Assets/Flavors/Product%20Assets/US/Half%20Baked%20Ice%20Cream/35725_US_IC_Half-Baked_473ml_Open_Brand-1920px.png",
+"label":"Gourmet & World Food",
+"parentId":"world"
+},
+{
+"categoryId":"bcd01",  "image":"https://www.benjerry.com/files/live/sites/systemsite/files/US%20and%20Global%20Assets/Flavors/Product%20Assets/US/Half%20Baked%20Ice%20Cream/35725_US_IC_Half-Baked_473ml_Open_Brand-1920px.png",
+"label":"Men\\'s Grooming",
+"parentId":"fresh"
+},
+{
+"categoryId":"mg1",  "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
+"label":"Fruits & Vegetables",
+"parentId":"personalcare"
+},
+{
+"categoryId":"bbh1",  "image":"https://www.benjerry.com/files/live/sites/systemsite/files/US%20and%20Global%20Assets/Flavors/Product%20Assets/US/Half%20Baked%20Ice%20Cream/35725_US_IC_Half-Baked_473ml_Open_Brand-1920px.png",
+"label":"Bath, Body & Hair'",
+"parentId":"personalcare"
+},
+{
+"categoryId":"bc1",  "image":"https://www.benjerry.com/files/live/sites/systemsite/files/US%20and%20Global%20Assets/Flavors/Product%20Assets/US/Half%20Baked%20Ice%20Cream/35725_US_IC_Half-Baked_473ml_Open_Brand-1920px.png",
+"label":"Beauty & Cosmetics",
+"parentId":"personalcare"
+},
+{
+"categoryId":"bcd01",  "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
+"label":"Health & Hygiene",
+"parentId":"fresh"
+},
+{
+"categoryId":"bcd01",  "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
+"label":"Fruits & Vegetables",
+"parentId":"fresh"
+},
+{
+"categoryId":"bcd01",  "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
+"label":"Fruits & Vegetables",
+"parentId":"fresh"
+},
+{
+"categoryId":"bcd01",  "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
+"label":"Fruits & Vegetables",
+"parentId":"fresh"
+},
+{
+"categoryId":"bcd01",  "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
+"label":"Fruits & Vegetables",
+"parentId":"fresh"
+},
+{
+"categoryId":"bcd01",  "image":"https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAxL3Jhd3BpeGVsX29mZmljZV8zOV93YXRlcmNvbG9yX2lsbHVzdHJhdGlvbl9vZl9hX2JhZ19mdWxsX29mX2ZydV9kN2ZiZThiNC0wNGNmLTRlMzItYTFhNC03MjUyOTFiOTI1Y2MucG5n.png",
+"label":"Fruits & Vegetables",
+"parentId":"fresh"
+}
+]
 }
