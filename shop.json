@@ -1,0 +1,116 @@
+{
+    "announcement": {
+        "title": "this is title",
+        "desc": "this tis desc"
+    },
+    "banners": [
+        {
+            "img": "https://github.com/nazanyilmaz/Amazon-Clone/blob/main/src/assets/slider1.jpeg",
+            "keywords": [
+                "new_arrivals"
+            ]
+        },
+        {
+            "img": "https://github.com/nazanyilmaz/Amazon-Clone/blob/main/src/assets/slider2.jpeg",
+            "keywords": [
+                "50_off",
+                "new_arrivals"
+            ]
+        },
+        {
+            "img": "https://github.com/nazanyilmaz/Amazon-Clone/blob/main/src/assets/slider5.jpeg",
+            "keywords": [
+                "holiday_sale"
+            ]
+        }
+    ],
+    "categories": [
+        {
+            "title": "Fruits & Vegetables",
+            "image": "https://i.imgur.com/47DEOrQ.png",
+            "parentCategory": "fruits-vegetables"
+        },
+        {
+            "title": "Bakery, Cakes & Dairy",
+            "image": "https://i.imgur.com/9VlS3nL.png",
+            "parentCategory": "bakery-cakes-dairy"
+        },
+        {
+            "title": "Breakfasts & More",
+            "image": "https://pngimg.com/d/breakfast_PNG39.png",
+            "parentCategory": "breakfasts-more"
+        },
+        {
+            "title": "Eggs, Meat & Fish",
+            "image": "https://i.imgur.com/ivjQEjz.png",
+            "parentCategory": "eggs-meat-fish"
+        },
+        {
+            "title": "Masalas, Oils & Dry Fruits",
+            "image": "https://i.imgur.com/L0pDqJK.png",
+            "parentCategory": "masalas-oils-dry-fruits"
+        },
+        {
+            "title": "Atta, Rice, Dals & Sugar",
+            "image": "https://i.imgur.com/Dt17uKn.png",
+            "parentCategory": "atta-rice-dals-sugar"
+        },
+        {
+            "title": "Chips, Biscuits & Namkeen",
+            "parentCategory": "chips-biscuits-namkeen",
+            "image": "https://kwalitynepal.com/wp-content/uploads/2022/10/digestive-gold-3.png"
+        },
+        {
+            "title": "Tea, Coffee & Sugar",
+            "image": "https://i.imgur.com/vxb7Et2.png",
+            "parentCategory": "tea-coffee-sugar"
+        },
+        {
+            "title": "Hot & Cold Beverages",
+            "image": "https://i.imgur.com/phBaoiL.png",
+            "parentCategory": "hot-cold-beverages"
+        },
+        {
+            "title": "Instant & Frozen Foods",
+            "image": "https://i.imgur.com/KaIEuE0.jpeg",
+            "parentCategory": "instant-frozen-foods"
+        },
+        {
+            "title": "Chocolates & Ice Creams",
+            "image": "https://www.pngkey.com/png/detail/266-2666956_slabs-cadbury-dairy-milk-mint-chocolate.png",
+            "parentCategory": "chocolates-ice-creams"
+        },
+        {
+            "title": "Gourmet & World Food",
+            "image": "https://i.imgur.com/lSgJg78.png",
+            "parentCategory": "gourmet-world-food"
+        },
+        {
+            "title": "Baby Care",
+            "image": "https://i.imgur.com/JI9ZWJP.png",
+            "parentCategory": "baby-care"
+        },
+        {
+            "title": "Men's Grooming",
+            "image": "https://assets.manscaped.com/image/upload/f_auto,q_auto/v1701211459/product-assets/store/product-thumbnails/the-pro-beard-kit.png",
+            "parentCategory": "mens-grooming"
+        },
+        {
+            "title": "Bath, Body & Hair",
+            "image": "https://i.imgur.com/Hq4beSI.png",
+            "parentCategory": "bath-body-hair"
+        },
+        {
+            "title": "Beauty & Cosmetics",
+            "image": "https://www.pngarts.com/files/11/Cosmetics-PNG-Download-Image.png",
+            "parentCategory": "beauty-cosmetics"
+        },
+        {
+            "title": "Health & Hygiene",
+            "image": "https://www.conveniencekits.com/picts/products/spu55.webp",
+            "parentCategory": "health-hygiene"
+        }
+    ],
+    "product": [],
+    "clothes": []
+}
