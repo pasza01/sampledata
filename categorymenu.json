@@ -1,0 +1,118 @@
+[
+    {
+        "parentCategory":"fruits-vegetables",
+        "image":"",
+        "title":"Fresh Vegitables",
+        "categories":[
+            {
+                "title":"Potato, Onions & Tomatoes",
+                "slug":"potato-onion-tomato"
+            },
+            {
+                "title":"Cucumber & Bell Pepper",
+                "slug":"cucumber-bellpepper"
+            },
+            {
+                "title":"Cabbage & Cauliflower",
+                "slug":"cabbage-cauliflower"
+            },
+            {
+                "title":"Greens",
+                "slug":"greens"
+            }
+        ]
+    },
+    {
+        "parentCategory":"fruits-vegetables",
+        "image":"",
+        "title":"Fresh Fruits",
+        "categories":[
+            {
+                "title":"Bananas",
+                "slug":"bananas"
+            },
+            {
+                "title":"Apples",
+                "slug":"apples"
+            },
+            {
+                "title":"Mangoes",
+                "slug":"mangoes"
+            },
+            {
+                "title":"Kiwi, Melon",
+                "slug":"kiwi-melon"
+            }
+        ]
+    },
+    {
+        "parentCategory":"fruits-vegetables",
+        "image":"",
+        "title":"Herbs & Seasonings",
+        "categories":[
+            {
+                "title":"Lemons",
+                "slug":"lemons"
+            },
+            {
+                "title":"Corianders",
+                "slug":"corianders"
+            },
+            {
+                "title":"Ginger & Turmeric",
+                "slug":"ginger-turmeric"
+            },
+            {
+                "title":"Kiwi, Melon",
+                "slug":"kiwi-melon"
+            }
+        ]
+    },
+    {
+        "parentCategory":"bakery-cakes-dairy",
+        "image":"",
+        "title":"Bakery Snacks",
+        "categories":[
+            {
+                "title":"Cheese & Garlic Breads",
+                "slug":"cheese-garlic-breads"
+            },
+            {
+                "title":"Bread Sticks",
+                "slug":"bread-sticks"
+            },
+            {
+                "title":"Breadcrumbs",
+                "slug":"breadcrums"
+            },
+            {
+                "title":"Greens",
+                "slug":"greens"
+            }
+        ]
+    },
+    {
+        "parentCategory":"bakery-cakes-dairy",
+        "image":"",
+        "title":"Cookies",
+        "categories":[
+            {
+                "title":"Cheese & Garlic Breads",
+                "slug":"cheese-garlic-breads"
+            },
+            {
+                "title":"Bread Sticks",
+                "slug":"bread-sticks"
+            },
+            {
+                "title":"Breadcrumbs",
+                "slug":"breadcrums"
+            },
+            {
+                "title":"Greens",
+                "slug":"greens"
+            }
+        ]
+    }
+
+]
