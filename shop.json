@@ -5,20 +5,20 @@
     },
     "banners": [
         {
-            "img": "https://github.com/nazanyilmaz/Amazon-Clone/blob/main/src/assets/slider1.jpeg",
+            "img": "https://raw.githubusercontent.com/nazanyilmaz/Amazon-Clone/refs/heads/main/src/assets/slider1.jpeg",
             "keywords": [
                 "new_arrivals"
             ]
         },
         {
-            "img": "https://github.com/nazanyilmaz/Amazon-Clone/blob/main/src/assets/slider2.jpeg",
+            "img": "https://raw.githubusercontent.com/nazanyilmaz/Amazon-Clone/refs/heads/main/src/assets/slider2.jpeg",
             "keywords": [
                 "50_off",
                 "new_arrivals"
             ]
         },
         {
-            "img": "https://github.com/nazanyilmaz/Amazon-Clone/blob/main/src/assets/slider5.jpeg",
+            "img": "https://raw.githubusercontent.com/nazanyilmaz/Amazon-Clone/refs/heads/main/src/assets/slider5.jpeg",
             "keywords": [
                 "holiday_sale"
             ]
